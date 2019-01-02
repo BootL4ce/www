@@ -46,6 +46,6 @@ googleAnalytics = ""
 
   [params.social]
   email         = "bootlace@bootlace.co.uk"
-  twitter       = "twitter.com/bootlace"
+  twitter       = "https://twitter.com/bootlace"
 
 
