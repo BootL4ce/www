@@ -11,8 +11,8 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   pages = false
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "General mutterings of an long time coder."
+  copyright = "&copy;2018 Simon Lacey"
   sidebarAbout = [
     "I am a Si."
   ]
