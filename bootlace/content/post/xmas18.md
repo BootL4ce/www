@@ -12,4 +12,4 @@ Travelling light for christmas.
 20 years ago I used to drive home to parents for Christmas packing a full desktop PC, monitor, keyboard/mouse, leads, and assorted bulky 'stuff'. Things improved with laptops and tablets, but I find my loadout is starting to creep up in size again. Only 5 different power connections: micro USB, USB-C, maglock 2, Apple Watch charging pad and lightning. 
 
 Bit sad to say goodbye to my roommates.
-![teddy bears](https://bootlace.co.uk/img/holidayroommates.jpeg)
+![teddy bears](/img/holidayroommates.jpeg)
