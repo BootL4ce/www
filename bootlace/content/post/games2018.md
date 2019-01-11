@@ -4,8 +4,9 @@ draft: false
 image: ""
 title: "Games 2018"
 date: 2019-01-11T20:16:31Z
-draft: true
+draft: false
 ---
+
 Didn't play a lot of current games last year. Only completed two, Far Cry 5 and God of War. Really enjoy Dead Cells, and a bunch of other stuff, but not to completion. First half of the year I got tied up with completing the From Software games (DS3, Bloodbourne, DS2, DS1, in that reverse order, multiple times), and the second half of the year saw me wasting away on MMOs again (mostly WoW and LOTRO).
 <!--more-->
 ## The Completed
