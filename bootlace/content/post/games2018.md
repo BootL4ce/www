@@ -28,6 +28,8 @@ Lots of good moments on PSVR. **Moss** and **Wipeout** stood out (as would **Ast
 
 **Okami** I finally spent more than an hour on this game with it's arrival on Switch (it came too late on PS3, I'd already move on to other consoles). Somewhere along the line I must have forgotten about it, because it's damn good, and I didn't play it at Christmas. Ok, next Christmas will be an Okami Christmas.
 
+**Gris** so far has been really nice. Has some Journey-esque vibes but more of a platformer than that. I always liked Ico and Zelda Wind Waker as they felt exceptionally intuitive in how you defeated bosses and solved puzzles. Gris has that same feeling (although I have currently got stuck on a bit :)).
+
 ## The MM oh noes!
 I bought myself a new Mac this year. A 5K iMac. I installed **WoW**, because it's a proper Mac app. And then **LOTRO** because I liked the sound of the Legendary servers. And then **FFXIV**, because I was amazed it had a Mac port (albeit just a Wine/Cider-esque wrapper like **GW2** which is disappointing, but reminds me I did also install GW2). And finally **ESO** because again, it had a Mac port that I didn't realise. Unfortunately ESO on Mac is going through a bit of a transitional period, so has been a bit ropey, but it's almost a proper Mac app.
 
