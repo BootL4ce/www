@@ -1,13 +1,15 @@
-+++
-showonlyimage = false
-draft = false
-image = ""
-title = "iPad Pro: Dev blog"
-date = "2019-01-19T12:10:00+01:00"
-categories = [ "Dev" ]
-tags = [ "iPad Pro" ]
-weight = 1
-+++
+---
+showonlyimage: false
+draft: false
+image: ""
+title: "iPad Pro: Dev blog"
+date: 2019-01-19T12:10:00+01:00
+weight: 1
+categories:
+- dev
+tags:
+-"iPad Pro"
+---
 One of the primary hurdles in the decision to buy an iPad Pro as a laptop replacement, was 'can I use it to write and publish games?'. This is from the perspective of a lifelong coder. I was an 8bit machine code programmer in the 80s, the iPad Pro is the future finally arriving for childhood me (well, sans holographic projections :)).
 
 The journey begins...

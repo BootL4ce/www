@@ -1,11 +1,11 @@
-+++
-showonlyimage = false
-draft = false
-image = ""
-title = "Welcome"
-date = "2018-10-17T14:21:47+01:00"
-weight = 1
-+++
+---
+showonlyimage: false
+draft: false
+image: ""
+title: Welcome
+date: 2018-10-17T14:21:47+01:00
+weight: 1
+---
 Welcome to the new look site.
 <!--more-->
 
