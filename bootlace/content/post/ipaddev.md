@@ -8,15 +8,18 @@ categories = [ "Dev" ]
 tags = [ "iPad Pro" ]
 weight = 1
 +++
+One of the primary hurdles in the decision to buy an iPad Pro as a laptop replacement, was 'can I use it to write and publish games?'. This is from the perspective of a lifelong coder. I was an 8bit machine code programmer in the 80s, the iPad Pro is the future finally arriving for childhood me (well, sans holographic projections :)).
+
+The journey begins...
+<!--more-->
+
+**The beginning**
+
 I bought an iPad Pro (10.5) in 2017 with the intent of seeing if I could use it as MacBook Pro replacement (for my needs, at least). The incentives primarily being lower weight, smaller baggage footprint, and typically better battery life (probably mostly down to use patterns). I was making a lot of trips to the city for 'culture' (3hr journey) and ultimately found that as part of packing for more than a night, the weight difference wasn't all that noticeable. Anyway, the experiment was cut short when about a month into ownership I dropped the tablet onto a granite floor, smashing the screen into more pieces than... Well, not massively economical to fix, so decided to just go back to my MBP.
 
 With last years updated iPad Pros, I decided to give it another go. Shame the keyboard and pencil weren't transferable from the 10.5", but really like the larger screen with less bezel. I went for the 11" as I ultimately want it to still feel comfortable as a tablet. I suspect I may come to regret this.
 
 Primary concern with buying an iPad Pro as a tablet replacement, is that I'm a coder at heart, and I was finding it hard to see how I could use the iPad as a proper coding device for the sort of apps I make (games!). I shall blog my experience of trying to create games on iPad Pro exclusively. 
-
-The journey begins...
-<!--more-->
-
 
 **Blogging on iPad**
 
