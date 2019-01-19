@@ -30,3 +30,10 @@ I suspect I will actually move away from Netlify at some point, and sort out the
 **Dev on iPad**
 
 The biggest hurdle for me when considering the iPad Pro, was that of wanting to be able to do general coding, and ultimately be able to at least build and publish iOS applications. I'm still considering lots of options, terminals are great for a bunch of stuff, and ssh onto any machine means I can do a bunch of C/C++ and try things out without straining the tablet itself. Obviously testing more graphical stuff becomes a challenge, and remote desktop, photon, etc, are only partially practical.
+
+I discovered Pyhtonista and Codea on the app store. I love Python (although I barely know it :)) and hate Lua (I know it too well :)), and whilst Pythonista is a nice environment to work in, the low level coder inside of me can't quite live with the performance differential between Python and Lua. Codea being the Lua based one and additionally having a path to export, compile and publish projects to the app store is where I'll be focusing my efforts. At least initially.
+
+**Random thoughts**
+
+Writing this is taking a long time, and time is precious. I have far too much fun stuff to do, and too much not so fun stuff. Fingers crossed, I'll stick with this, and hopefully abridge less often.
+
