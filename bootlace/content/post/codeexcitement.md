@@ -4,7 +4,7 @@ draft = false
 image = ""
 title = "Coding Excitement"
 date = "2019-01-03T21:52:22+01:00"
-weight = 0
+weight = 1
 +++
 Coalescing more and more ideas. Nothing new there, but actually getting excited about organising them in order of complexity and actually working through them.
 <!--more-->
