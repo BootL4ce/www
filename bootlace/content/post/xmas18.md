@@ -1,11 +1,15 @@
-+++
-showonlyimage = false
-draft = false
-image = "img/traveltech.jpeg"
-title = "Back to work"
-date = "2019-01-02T12:15:47+01:00"
-weight = 1
-+++
+---
+showonlyimage: false
+draft: false
+image: img/traveltech.jpeg
+title: Back to work
+date: 2019-01-02T12:15:47+01:00
+weight: 1
+categories:
+- Blog
+tags:
+- xmas
+---
 Travelling light for christmas.
 <!--more-->
 
